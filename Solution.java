@@ -1,5 +1,5 @@
 import java.util.*;
-public class Solutions{
+public class Solution{
     public static void main(String args[]){
         pen p1 = new pen();
         p1.setColor("blue");
