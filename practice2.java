@@ -23,6 +23,6 @@ public class practice2{
         System.out.println("sum is : " + c1.sum(x,y));
         System.out.println("sub is : " + c1.Diffrence(x,y));
         System.out.println("mul is : " + c1.product(x,y));
-        System.out.println("Division is : " + c1.Division((float) 2.5 , (float) 2.5));
+        System.out.println("Division : " + c1.Division((float) 2.5 , (float) 2.5));
     }
 }
